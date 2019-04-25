@@ -1,0 +1,23 @@
+{
+  "name": "express-cera",
+  "version": "1.0.0",
+  "description": "Node Express Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeerjan/node-express-cera.git"
+  },
+  "author": "Muhammad Safeer Jan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safeerjan/node-express-cera/issues"
+  },
+  "homepage": "https://github.com/safeerjan/node-express-cera#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
